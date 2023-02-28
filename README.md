@@ -9,4 +9,5 @@ This notebook provides the Python implementation of a biophysically realistic Ad
 This notebook is updated regularly. Please feel free to contact if you have any feedback.
 
 Zenodo link: https://doi.org/10.5281/zenodo.7682309
+
 Contact: emre.baspinar@cnrs.fr
