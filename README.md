@@ -1,6 +1,6 @@
 # Jupyter notebook of a biophysically plausible decision-making model based on interacting cortical columns
 
-The notebook and the code package is found in the following Zenodo link: https://doi.org/10.5281/zenodo.7682309.
+The notebook and the code package are found in the following Zenodo link: https://doi.org/10.5281/zenodo.7682309.
 
 Editor: Emre Baspinar (ORCID: 0000-0002-9518-3705).
 
