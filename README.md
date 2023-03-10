@@ -15,7 +15,7 @@ Zenodo link: https://doi.org/10.5281/zenodo.7682309
 Contact: emre.baspinar@cnrs.fr
 
 
-\textbf{References:}
+## References:
 
 [1]: E. Baspinar, G. Cecchini, M. DePass, M. Andujar, P. Pani, S. Ferraina, R. Moreno-Bote, I. Cos, A. Destexhe, "A biologically plausible decision- making model based on interacting cortical columns", bioRxiv preprint, doi: https://doi.org/10.1101/2023.02.28.530384 
 
