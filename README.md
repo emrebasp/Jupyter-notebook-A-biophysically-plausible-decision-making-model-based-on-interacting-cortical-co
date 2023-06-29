@@ -42,6 +42,6 @@ This notebook uses Matplotlib, Nump, Random, Os and Scipy.io libraries.
 
 [1]: E. Baspinar, G. Cecchini, M. DePass, M. Andujar, P. Pani, S. Ferraina, R. Moreno-Bote, I. Cos, A. Destexhe, "A biologically plausible decision- making model based on interacting cortical columns", bioRxiv, 2023, doi: https://doi.org/10.1101/2023.02.28.530384 
 
-[2]: G. Cecchini, M. DePass, E. Baspinar, M. Andujar, S. Ramawat, P. Pani, A. Destexhe, R. Moreno-Bote, I. Cos, "A theoretical formalization of consequence-based decision-making", bioRxiv, 2023, doi: https://doi.org/10.1101/2023.02.14.528595.
+[2]: G. Cecchini, M. DePass, E. Baspinar, M. Andujar, S. Ramawat, P. Pani, A. Destexhe, R. Moreno-Bote, I. Cos, "A theoretical formalization of consequence-based decision-making", bioRxiv, 2023, doi: https://doi.org/10.1101/2023.02.14.528595
 
 [3]: E. Baspinar, G. Cecchini, R. Moreno-Bote, I. Cos, A. Destexhe, "Jupyter notebook of a biophysically plausible decision-making model based on interacting cortical columns (1.0.0)", Zenodo, 2023, doi: https:// doi.org/10.5281/zenodo.7682309
