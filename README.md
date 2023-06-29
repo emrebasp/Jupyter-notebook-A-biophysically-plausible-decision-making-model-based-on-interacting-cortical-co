@@ -6,15 +6,13 @@ Contributors: Gloria Cecchini, Ruben Moreno-Bote, Ignasi Cos, Alain Destexhe
 
 This notebook contains the implementation of the biophysically realistic AdEx mean-field model proposed in [1] for the reward-driven consequential decision-making task presented in [2]. The implementation is in Python 3.8.5. The code writing and the preparation of the Jupyter notebook was done by Emre Baspinar (CNRS, NeuroPSI, Paris-Saclay). The model design was contributed by Emre Baspinar, Gloria Cecchini (U. of Barcelona), Rub ́en Moreno Bote (Pompeu Fabra University, Barcelona), Ignasi Cos (U. of Barcelona) and Alain Destexhe (CNRS, NeuroPSI, Paris-Saclay). The related manuscript [1] is a joint work of Emre Baspinar, Gloria Cecchini, Michael DePass (U. of Barcelona), Marta Andujar (U. of Rome), Pierpaolo Pani (U. of Rome), Stefano Ferraina (U. of Rome), Rub ́en Moreno Bote, Ignasi Cos and Alain Destexhe. See [1] for more information. This work was supported by Human Brain Project (European Union grant H2020-945539).
 
-This notebook is updated regularly. Please feel free to contact if you have any feedback.
-
 Zenodo link: https://doi.org/10.5281/zenodo.7682309
+
+Please feel free to contact for questions, comments and feedback.
 
 Contact: emre.baspinar@cnrs.fr
 
 This notebook is licensed by Creative Commons Attribution 4.0 International Public License (CC BY 4.0). Please cite [1] and [3] if you use this notebook in your work.
-
-Please feel free to contact for questions, comments and feedback. Contact: emre.baspinar@cnrs.fr
 
 Description: This notebook provides the implementation of the implementation of the model, an example simulation of the model related to the behavioral experiments of the decision-making paradigm considered in [1, 2] and three case studies. The results of the example simulation are saved automatically in the notebook folder as .npy files in case of that the user wants to analyze the results. This option can be commented out without causing to the proper functioning of the rest of the notebook. The default values for the simulations are provided and they can be easily changed by the user.
 
